@@ -4,8 +4,9 @@ body {
 }
 
 .foto {
-    float: left;    
+    float: right;    
     width: 200px;
     padding: 20px;  
+    margin: 20px;
 }
 
