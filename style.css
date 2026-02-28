@@ -9,6 +9,7 @@ body {
 
 }
 .header {
+    display: sticky;
     grid-column: 1 / -1;
     background-color: white;
     padding: 20px;
