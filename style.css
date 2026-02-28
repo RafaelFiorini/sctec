@@ -20,6 +20,8 @@ body {
 }
 
 .sidebar {
+    font-style: bold;
+    color: white;
     background-color: rgb(92, 91, 91);
     padding: 20px;
 }
@@ -29,5 +31,6 @@ body {
     width: 200px;
     padding: 20px;  
     margin: 20px;
+    position: relative;
 }
 
