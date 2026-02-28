@@ -6,6 +6,6 @@ body {
 .foto {
     float: left;    
     width: 200px;
-        
+    padding: 20px;  
 }
 
