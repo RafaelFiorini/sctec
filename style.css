@@ -11,8 +11,9 @@ body {
 .header {
 
     grid-column: 1 / -1;
-    background-color: rgb(6, 36, 134);
+    background-color: rgb(3, 27, 105);
     padding: 20px;
+    color: white;
 }
 
 .content{
