@@ -32,7 +32,7 @@ footer{
 .foto{
     width: 100px;
     height: auto;
-    position: absolute;
+    position: absolute; 
     right: 20px;
     top: 0px;
 }

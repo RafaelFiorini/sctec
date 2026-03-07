@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Curriculo Rafael Henrique Fiorini</title>
     <link rel="stylesheet" href="style.css" />
+    <script src="script.js">
+    </script>
   </head>
   <body>
     <header>
@@ -49,10 +51,12 @@
       <section class="content">
         <h2>Habilidades</h2>
         <p>
-          teste Complementar em Escrituração Fiscal (2012). • Requisitos
-          (Levantamento e descrição de necessidades) • Preparatório Certificação
-          PMP – PMBOK 7° Edição. • Curso de Extenção em Métodos Ágeis – FGV.
+          calculadora de aprovação:
         </p>
+        <label>Digite a nota:</label>
+        <input type="text" id="nota">
+        <button onclick="verificaNota()">Verificar</button>
+        <p id="resultado"> </p>
       </section>
     </main>
     <footer>
